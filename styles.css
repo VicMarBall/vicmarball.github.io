@@ -179,6 +179,7 @@ section {
 .hero-button-row {
     align-self: flex-start;
 
+    font-size: 14px;
     padding-top: 1em;
 
     background-color: transparent;
@@ -565,6 +566,7 @@ footer {
         font-size: 60px;
     }
 
+    .hero-button-row,
     .hero-button {
         font-size: 20px;
     }
